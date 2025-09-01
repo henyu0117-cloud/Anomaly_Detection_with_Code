@@ -7,6 +7,6 @@ Anomaly Detection에 관한 논문 및 코드 실습용 저장소
 ### 1. Student-Teacher Architecture  
 
 $\cdot$ Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings  
-$\cdot$ Multiresolution knowledge distillation for anomaly detection [[paper]](https://arxiv.org/abs/2011.11108) [[summary&code]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
+$\cdot$ Multiresolution knowledge distillation for anomaly detection [[paper]]([https://arxiv.org/abs/2011.11108](https://arxiv.org/pdf/2011.11108)) [[summary&code]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
 $\cdot$ Student-teacher feature pyramid matching for anomaly detection  
 

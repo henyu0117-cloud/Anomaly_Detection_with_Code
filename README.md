@@ -13,7 +13,7 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxi
 ## Unsupervised Learning  
 ### 1. Student-Teacher Architecture  
 
-$\cdot$ Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings
+$\cdot$ Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings  
 [[paper]](https://arxiv.org/pdf/2011.11108)
 [[summary]](https://sogsog.tistory.com/53)
 [[colab]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
@@ -22,7 +22,19 @@ $\cdot$ Student-teacher feature pyramid matching for anomaly detection
 $\cdot$ Anomaly detection via reverse distillation from one-class embedding  
 
 ### 2. One-Class Classification  
-
+$\cdot$ Patch svdd: Patch-level svdd for anomaly detection and segmentation  
+$\cdot$ Panda: Adapting pretrained features for anomaly detection and segmentation  
+$\cdot$ Deep nearest neighbor anomaly detection  
+$\cdot$ Learning and evaluating representations for deep one-class classification  
+$\cdot$ Cutpaste: Self-supervised learning for anomaly detection and localization  
+$\cdot$ Contrastive Predictive Coding for Anomaly Detection  
+$\cdot$ Support vector data description  
+$\cdot$ Explainable deep one-class classification  
+$\cdot$ Mean-shifted contrastive loss for anomaly detection  
+$\cdot$ Representation learning with contrastive predictive coding  
+$\cdot$ Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization  
+$\cdot$ Attention guided anomaly localization in images  
+  
 ### 3. Distribution Map  
 
 ### 4. Memory Bank  

@@ -13,7 +13,7 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxi
 ## Unsupervised Learning  
 ### 1. Student-Teacher Architecture  
 
-$\cdot$ Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings  
+$\cdot$ Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings
 [[paper]](https://arxiv.org/pdf/2011.11108)
 [[summary]](https://sogsog.tistory.com/53)
 [[colab]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  

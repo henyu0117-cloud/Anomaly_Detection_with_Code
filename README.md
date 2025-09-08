@@ -6,9 +6,6 @@ Please note that some parts may contain errors. For accurate information, refer 
 
 ## Survey papers I reffered to  
 $\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxiv.org/abs/2301.11514)
-
-
-논문 리스트 (노션) : https://www.notion.so/260a7d99d03b80688c04c2be2d8c0732?v=260a7d99d03b80a8a6fe000c17b70707&source=copy_link  
   
 ## Unsupervised Learning  
 ### 1. Student-Teacher Architecture  

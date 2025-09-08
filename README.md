@@ -4,20 +4,42 @@ This repository contains paper summaries and code implementations on anomaly det
 Please note that some parts may contain errors. For accurate information, refer to the original papers and official implementations.  
 
 
-## Survey papers I reffered to  
+### Survey papers I reffered to  
 $\cdot$ Visual-Based Defect Detection and Classification Approaches for Industrial Applications—A SURVEY [[paper]](https://www.mdpi.com/1424-8220/20/5/1459)  
 $\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxiv.org/abs/2301.11514)  
+
   
-### Unsupervised Learning  
+## Anomaly Detection Texonomy    
+* Classical Approach
+  * a
+  * b
+  * c
+  * d
+  * e
+  * f
+* Deep learning Approach
+  * Unsupervised learning
+    * b
+    * c
+    * d
+  * Supervised learning
+  * Few-shot anomaly detection
+  * Noisy anomaly detection
 ### 1. Student-Teacher Architecture  
 
 1. Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings
 [[paper]](https://arxiv.org/pdf/2011.11108)
 [[summary]](https://sogsog.tistory.com/53)
 [[colab]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
-2. Multiresolution knowledge distillation for anomaly detection [[paper]](https://arxiv.org/pdf/2011.11108) [[summary&code]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
-3. Student-teacher feature pyramid matching for anomaly detection  
-4. Anomaly detection via reverse distillation from one-class embedding  
+
+2. Multiresolution knowledge distillation for anomaly detection 
+[[paper]](https://arxiv.org/pdf/2011.11108)
+[[summary]](https://sogsog.tistory.com/53)
+[[code]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
+
+4. Student-teacher feature pyramid matching for anomaly detection  
+
+5. Anomaly detection via reverse distillation from one-class embedding  
 
 ### 2. One-Class Classification  
 $\cdot$ Patch svdd: Patch-level svdd for anomaly detection and segmentation  

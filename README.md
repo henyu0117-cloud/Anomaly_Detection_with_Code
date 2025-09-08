@@ -61,7 +61,7 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxi
 
 ### 2. One-Class Classification  
 $\cdot$ Support vector data description (2004)  
-$\cdot$ Deep nearest neighbor anomaly detection (2020) 
+$\cdot$ Deep nearest neighbor anomaly detection (2020)  
 $\cdot$ Patch svdd: Patch-level svdd for anomaly detection and segmentation (2020)  
 $\cdot$ Learning and evaluating representations for deep one-class classification (2020)  
 $\cdot$ Explainable deep one-class classification (2020)  

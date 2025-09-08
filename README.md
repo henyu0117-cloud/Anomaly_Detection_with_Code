@@ -42,7 +42,6 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxi
 
 
 ## Paper Review
-### Unsupervised learning
 ### 1. Student-Teacher Architecture  
 
 1. Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings

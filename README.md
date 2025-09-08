@@ -1,5 +1,5 @@
 # 이상치 탐지 논문 요약 및 코드 실습 
-Anomaly Detection에 관한 논문 요약 및 코드 실습을 다루고 있습니다.  
+딥러닝 기반 이상치 탐지에 관한 논문 요약 및 코드 실습을 다루고 있습니다.
 오류가 있을 수 있으므로, 정확한 내용은 원본 논문과 공식 코드를 참고하시길 바랍니다.  
 This repository contains paper summaries and code implementations on anomaly detection.  
 Please note that some parts may contain errors. For accurate information, refer to the original papers and official implementations.  

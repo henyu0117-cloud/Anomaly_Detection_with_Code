@@ -59,13 +59,13 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxi
 5. Anomaly detection via reverse distillation from one-class embedding  
 
 ### 2. One-Class Classification  
+$\cdot$ Support vector data description  
+$\cdot$ Deep nearest neighbor anomaly detection  
 $\cdot$ Patch svdd: Patch-level svdd for anomaly detection and segmentation  
 $\cdot$ Panda: Adapting pretrained features for anomaly detection and segmentation  
-$\cdot$ Deep nearest neighbor anomaly detection  
 $\cdot$ Learning and evaluating representations for deep one-class classification  
 $\cdot$ Cutpaste: Self-supervised learning for anomaly detection and localization  
 $\cdot$ Contrastive Predictive Coding for Anomaly Detection  
-$\cdot$ Support vector data description  
 $\cdot$ Explainable deep one-class classification  
 $\cdot$ Mean-shifted contrastive loss for anomaly detection  
 $\cdot$ Representation learning with contrastive predictive coding  

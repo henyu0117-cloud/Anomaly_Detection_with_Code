@@ -7,16 +7,16 @@ Please note that some parts may contain errors. For accurate information, refer 
 ## Survey papers I reffered to  
 $\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxiv.org/abs/2301.11514)
   
-## Unsupervised Learning  
+### Unsupervised Learning  
 ### 1. Student-Teacher Architecture  
 
-$\cdot$ Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings
+1. Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings
 [[paper]](https://arxiv.org/pdf/2011.11108)
 [[summary]](https://sogsog.tistory.com/53)
 [[colab]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
-$\cdot$ Multiresolution knowledge distillation for anomaly detection [[paper]](https://arxiv.org/pdf/2011.11108) [[summary&code]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
-$\cdot$ Student-teacher feature pyramid matching for anomaly detection  
-$\cdot$ Anomaly detection via reverse distillation from one-class embedding  
+2. Multiresolution knowledge distillation for anomaly detection [[paper]](https://arxiv.org/pdf/2011.11108) [[summary&code]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
+3. Student-teacher feature pyramid matching for anomaly detection  
+4. Anomaly detection via reverse distillation from one-class embedding  
 
 ### 2. One-Class Classification  
 $\cdot$ Patch svdd: Patch-level svdd for anomaly detection and segmentation  
@@ -44,12 +44,12 @@ $\cdot$ Attention guided anomaly localization in images
 
 ### 8. Diffusion Model  
 
-## Supervised Learning
+### Supervised Learning
 
-## Few-Shot Anomaly Detection  
+### Few-Shot Anomaly Detection  
 
-## Noisy Anomaly Detection  
+### Noisy Anomaly Detection  
 
-## 3D Anomaly Detection
+### 3D Anomaly Detection
 
-## Anomaly Synthesis  
+### Anomaly Synthesis  

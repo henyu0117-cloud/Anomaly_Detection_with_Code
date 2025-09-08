@@ -5,8 +5,8 @@ Please note that some parts may contain errors. For accurate information, refer 
 
 
 ## Survey papers I reffered to  
-$\cdot$ Visual-Based Defect Detection and Classification Approaches for Industrial Applications—A SURVEY [[paper]](https://www.mdpi.com/1424-8220/20/5/1459)
-$\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxiv.org/abs/2301.11514)
+$\cdot$ Visual-Based Defect Detection and Classification Approaches for Industrial Applications—A SURVEY [[paper]](https://www.mdpi.com/1424-8220/20/5/1459)  
+$\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxiv.org/abs/2301.11514)  
   
 ### Unsupervised Learning  
 ### 1. Student-Teacher Architecture  

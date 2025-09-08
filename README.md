@@ -1,30 +1,48 @@
 # 이상치 탐지 논문 요약 및 코드 실습 
-Anomaly Detection에 관한 논문 요약 및 코드 실습을 다루고 있습니다. 오류가 있을 수 있으므로, 정확한 내용은 원본 논문과 공식 코드를 참고하시길 바랍니다.  
+Anomaly Detection에 관한 논문 요약 및 코드 실습을 다루고 있습니다.  
+오류가 있을 수 있으므로, 정확한 내용은 원본 논문과 공식 코드를 참고하시길 바랍니다.  
 This repository contains paper summaries and code implementations on anomaly detection.  
 Please note that some parts may contain errors. For accurate information, refer to the original papers and official implementations.  
-
-
-### Survey papers I reffered to  
-$\cdot$ Visual-Based Defect Detection and Classification Approaches for Industrial Applications—A SURVEY [[paper]](https://www.mdpi.com/1424-8220/20/5/1459)  
-$\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxiv.org/abs/2301.11514)  
 
   
 ## Anomaly Detection Texonomy    
 * Classical Approach
-  * a
-  * b
-  * c
-  * d
-  * e
-  * f
+  * 히스토그램을 이용한 결함 탐지
+    * otsu 알고리즘
+  * GLCM을 이용한 결함 탐지
+  * Local Binary Pattern을 이용한 결함 탐지
+  * 자기상관(Autocorrelation)을 이용한 결함 탐지
+  * 구조 기반 결함 탐지
+    * Canny 알고리즘을 이용한 엣지 추출
+    * Morphology 연산
+    * Zhang-Suen 알고리즘을 이용한 skeleton 추출
+  * 필터 기반 결함 탐지
+    * Sobel 필터, Laplacian 필터
+    * 푸리에 변환 후 필터링을 통하 이상치 탐지
+   
 * Deep learning Approach
   * Unsupervised learning
-    * b
-    * c
-    * d
+    * Student-Teacher Architecture
+    * One-Class Classification
+    * Distribution Map
+    * Memory Bank
+    * Autoencoder
+    * GAN
+    * Transformer
+    * Diffusion Model
   * Supervised learning
   * Few-shot anomaly detection
   * Noisy anomaly detection
+  * 3D Anomaly Detection
+
+
+## Survey papers  
+$\cdot$ Visual-Based Defect Detection and Classification Approaches for Industrial Applications—A SURVEY [[paper]](https://www.mdpi.com/1424-8220/20/5/1459)  
+$\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxiv.org/abs/2301.11514)  
+
+
+## Paper Review
+### Unsupervised learning
 ### 1. Student-Teacher Architecture  
 
 1. Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings
@@ -74,5 +92,10 @@ $\cdot$ Attention guided anomaly localization in images
 ### Noisy Anomaly Detection  
 
 ### 3D Anomaly Detection
+
+## Reference
+$\cdot$ Visual-Based Defect Detection and Classification Approaches for Industrial Applications—A SURVEY [[paper]](https://www.mdpi.com/1424-8220/20/5/1459)  
+$\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxiv.org/abs/2301.11514)  
+
 
 ### Anomaly Synthesis  

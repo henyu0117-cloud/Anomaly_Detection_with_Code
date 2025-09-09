@@ -46,17 +46,18 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 
 1. Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings (2020)
 [[paper]](https://arxiv.org/pdf/2011.11108)
-[[summary]](https://sogsog.tistory.com/53)
-[[colab]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
+[[summary]](https://sogsog.tistory.com/53)  
 
 2. Multiresolution knowledge distillation for anomaly detection (2021)
 [[paper]](https://arxiv.org/pdf/2011.11108)
-[[summary]](https://sogsog.tistory.com/53)
-[[code]](https://github.com/henyu0117-cloud/ADcode/blob/73c10ec7655f557f17329f655e292914acb30104/1%20Student-Teacher%20Architecture/Multiresolution%20Knowledge%20Distillation%20for%20Anomaly%20Detection.ipynb)  
+[[summary]](https://sogsog.tistory.com/54)
 
-3. Student-teacher feature pyramid matching for anomaly detection (2021)  
+3. Student-teacher feature pyramid matching for anomaly detection (2021) [[paper]](https://arxiv.org/pdf/2103.04257)
+[[summary]](https://sogsog.tistory.com/55)  
 
-5. Anomaly detection via reverse distillation from one-class embedding (2022)  
+4. Anomaly detection via reverse distillation from one-class embedding (2022)
+[[paper]](https://arxiv.org/pdf/2201.10703)
+[[summary]](https://sogsog.tistory.com/56)  
 
 
 ### 2. One-Class Classification  

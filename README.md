@@ -80,16 +80,46 @@ $\cdot$ Mean-shifted contrastive loss for anomaly detection (2023)
 
 
 ### 3. Distribution Map  
+1. Variational Inference with Normalizing Flows (2015)
+2. Modeling the distribution of normal data in pre-trained deep features for anomaly detection (2021)  
+3. Same same but differnet: Semi-supervised defect detection with normalizing flows (2021)
+4. Fully convolutional cross-scale-flows for image-based defect detection (2022)  
 
 ### 4. Memory Bank  
+1. Sub-image anomaly detection with deep pyramid correspondences (2020)
+2. Padim: a patch distribution modeling framework for anomaly detection and localization (2021)
+3. Towards total recall in industrial anomaly detection (2022)
+4. Spot-the-difference self-supervised pre-training for anomaly detection and segmentation (2022)  
+
 
 ### 5. Autoencoder  
+1. Iterative energy-based projection on a normal data manifold for anomaly localization (2019)
+2. Encoding structure-texture relation with p-net for anomaly detection in retinal images (2020)
+3. Towards visually explaining variational autoencoders (2020)
+4. Improved anomaly detection by training an autoencoder with skip connections on images corrupted with stain-shaped noise (2021)
+5. Divide-and-assemble: Learning block-wise memory for unsupervised anomaly detection (2021)
+6. Draem-a discriminatively trained reconstruction embedding for surface anomaly detection (2021)
+7. DSR–a dual subspace re-projection network for surface anomaly detection (2022)
+8. Natural synthetic anomalies for self-supervised anomaly detection and localization (2022)
+9. Self-supervised predictive convolutional attentive block for anomaly detection (2022)  
+
 
 ### 6. GAN
+1. Learning semantic context from normal samples for unsupervised anomaly detection (2021)
+2. Anoseg: Anomaly segmentation network using self-supervised learning (2021)
+3. Omni-frequency channel-selection representations for unsupervised anomaly detection (2022)  
+
 
 ### 7. Transformer  
+1. Vt-adl: A vision transformer network for image anomaly detection and localization (2021)  
+2. Inpainting transformer for anomaly detection (2021)
+3. A Unified Model for Multi-class Anomaly Detection (2022)
+4. ADTR: Anomaly Detection Transformer with Feature Reconstruction (2022)  
 
 ### 8. Diffusion Model  
+1. Anoddpm: Anomaly detection with denoising diffusion probabilistic models using simplex noise (2022)
+2. Unsupervised visual defect detection with score-based generative model (2023)
+
 
 ### Supervised Learning
 

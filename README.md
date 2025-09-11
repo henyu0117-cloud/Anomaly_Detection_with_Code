@@ -61,16 +61,18 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 
 
 ### 2. One-Class Classification  
-$\cdot$ Support vector data description (2004)
+1. Support vector data description (2004)
 [[paper]](https://link.springer.com/article/10.1023/B:MACH.0000008084.60811.49)
 [[summary]](https://sogsog.tistory.com/57)  
-$\cdot$ Deep nearest neighbor anomaly detection (2020)
+2. Deep nearest neighbor anomaly detection (2020)
 [[paper]](https://arxiv.org/pdf/2002.10445)
 [[summary]](https://sogsog.tistory.com/58)  
-$\cdot$ Patch svdd: Patch-level svdd for anomaly detection and segmentation (2020)
+3. Patch svdd: Patch-level svdd for anomaly detection and segmentation (2020)
 [[paper]](https://arxiv.org/pdf/2006.16067)
 [[summary]](https://sogsog.tistory.com/59)  
-$\cdot$ Learning and evaluating representations for deep one-class classification (2020)  
+4. Learning and evaluating representations for deep one-class classification (2020)
+[[paper]](https://arxiv.org/pdf/2011.02578)
+[[summary]](https://sogsog.tistory.com/60)  
 $\cdot$ Explainable deep one-class classification (2020)  
 $\cdot$ Attention guided anomaly localization in images (2020)  
 $\cdot$ Panda: Adapting pretrained features for anomaly detection and segmentation (2021)  

@@ -73,12 +73,12 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 4. Learning and evaluating representations for deep one-class classification (2020)
 [[paper]](https://arxiv.org/pdf/2011.02578)
 [[summary]](https://sogsog.tistory.com/60)  
-$\cdot$ Explainable deep one-class classification (2020)  
-$\cdot$ Attention guided anomaly localization in images (2020)  
-$\cdot$ Panda: Adapting pretrained features for anomaly detection and segmentation (2021)  
-$\cdot$ Cutpaste: Self-supervised learning for anomaly detection and localization (2021)  
-$\cdot$ Contrastive Predictive Coding for Anomaly Detection (2021)  
-$\cdot$ Mean-shifted contrastive loss for anomaly detection (2023)  
+5. Explainable deep one-class classification (2020)
+6. Attention guided anomaly localization in images (2020)
+7. Panda: Adapting pretrained features for anomaly detection and segmentation (2021)
+8. Cutpaste: Self-supervised learning for anomaly detection and localization (2021)
+9. Contrastive Predictive Coding for Anomaly Detection (2021)
+10. Mean-shifted contrastive loss for anomaly detection (2023)  
 
 
 ### 3. Distribution Map  

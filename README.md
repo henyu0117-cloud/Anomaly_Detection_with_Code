@@ -77,8 +77,6 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 6. Attention guided anomaly localization in images (2020)
 7. Panda: Adapting pretrained features for anomaly detection and segmentation (2021)
 8. Cutpaste: Self-supervised learning for anomaly detection and localization (2021)
-9. Contrastive Predictive Coding for Anomaly Detection (2021)
-10. Mean-shifted contrastive loss for anomaly detection (2023)  
 
 
 ### 3. Distribution Map  

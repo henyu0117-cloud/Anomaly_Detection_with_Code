@@ -46,18 +46,15 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 
 1. Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings (2020)
 [[paper]](https://arxiv.org/pdf/2011.11108)
-[[summary]](https://sogsog.tistory.com/53)  
-
+[[summary]](https://sogsog.tistory.com/53)
 2. Multiresolution knowledge distillation for anomaly detection (2021)
 [[paper]](https://arxiv.org/pdf/2011.11108)
 [[summary]](https://sogsog.tistory.com/54)
-
 3. Student-teacher feature pyramid matching for anomaly detection (2021) [[paper]](https://arxiv.org/pdf/2103.04257)
-[[summary]](https://sogsog.tistory.com/55)  
-
+[[summary]](https://sogsog.tistory.com/55)
 4. Anomaly detection via reverse distillation from one-class embedding (2022)
 [[paper]](https://arxiv.org/pdf/2201.10703)
-[[summary]](https://sogsog.tistory.com/56)  
+[[summary]](https://sogsog.tistory.com/56)
 
 
 ### 2. One-Class Classification  
@@ -74,22 +71,43 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 [[paper]](https://arxiv.org/pdf/2011.02578)
 [[summary]](https://sogsog.tistory.com/60)  
 5. Explainable deep one-class classification (2020)
+[[paper]](https://arxiv.org/pdf/2007.01760)
+[[summary]](https://sogsog.tistory.com/61)
 6. Attention guided anomaly localization in images (2020)
+[[paper]](https://arxiv.org/pdf/1911.08616)
+[[summary]](https://sogsog.tistory.com/62)
 7. Panda: Adapting pretrained features for anomaly detection and segmentation (2021)
+[[paper]](https://arxiv.org/pdf/2010.05903)
+[[summary]](https://sogsog.tistory.com/63)
 8. Cutpaste: Self-supervised learning for anomaly detection and localization (2021)
+[[paper]](https://arxiv.org/pdf/2104.04015)
+[[summary]](https://sogsog.tistory.com/64)
 
 
 ### 3. Distribution Map  
 1. Variational Inference with Normalizing Flows (2015)
-2. Modeling the distribution of normal data in pre-trained deep features for anomaly detection (2021)  
+[[paper]](https://arxiv.org/pdf/1505.05770)
+[[summary]](https://sogsog.tistory.com/65)
+2. Modeling the distribution of normal data in pre-trained deep features for anomaly detection (2021)
+[[paper]](https://arxiv.org/pdf/2005.14140)
+[[summary]](https://sogsog.tistory.com/66)
 3. Same same but differnet: Semi-supervised defect detection with normalizing flows (2021)
-4. Fully convolutional cross-scale-flows for image-based defect detection (2022)  
+[[paper]](https://arxiv.org/pdf/2008.12577)
+[[summary]](https://sogsog.tistory.com/67)
+4. Fully convolutional cross-scale-flows for image-based defect detection (2022)
+[[paper]](https://arxiv.org/pdf/2110.02855)
+[[summary]](https://sogsog.tistory.com/68)
 
 ### 4. Memory Bank  
 1. Sub-image anomaly detection with deep pyramid correspondences (2020)
+[[paper]](https://arxiv.org/pdf/2005.02357)
+[[summary]](https://sogsog.tistory.com/69)
 2. Padim: a patch distribution modeling framework for anomaly detection and localization (2021)
+[[paper]](https://arxiv.org/pdf/2011.08785)
+[[summary]](https://sogsog.tistory.com/70)
 3. Towards total recall in industrial anomaly detection (2022)
-
+[[paper]](https://arxiv.org/pdf/2106.08265)
+[[summary]](https://sogsog.tistory.com/71)
 
 ### 5. Autoencoder  
 1. Iterative energy-based projection on a normal data manifold for anomaly localization (2019)

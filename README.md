@@ -130,6 +130,8 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 
 ### Anomaly Synthesis  
 
+### Anomaly Detection with LLM and RAG
+
 ## Reference
 $\cdot$ Visual-Based Defect Detection and Classification Approaches for Industrial Applications-A SURVEY [[paper]](https://www.mdpi.com/1424-8220/20/5/1459)  
 $\cdot$ Deep Industrial Image Anomaly Detection: A survey [[paper]](https://arxiv.org/abs/2301.11514)  

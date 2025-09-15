@@ -89,7 +89,6 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 1. Sub-image anomaly detection with deep pyramid correspondences (2020)
 2. Padim: a patch distribution modeling framework for anomaly detection and localization (2021)
 3. Towards total recall in industrial anomaly detection (2022)
-4. Spot-the-difference self-supervised pre-training for anomaly detection and segmentation (2022)  
 
 
 ### 5. Autoencoder  

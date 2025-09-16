@@ -113,7 +113,6 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 1. Iterative energy-based projection on a normal data manifold for anomaly localization (2019)
 2. Towards visually explaining variational autoencoders (2020)
 3. Draem-a discriminatively trained reconstruction embedding for surface anomaly detection (2021)
-4. Self-supervised predictive convolutional attentive block for anomaly detection (2022)  
 
 
 ### 6. GAN

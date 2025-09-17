@@ -131,6 +131,7 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 
 
 ### Supervised Learning
+비정상의 종류는 다양하고 수집하기 어렵지만 실무에서는 비정상 샘플은 수집하는 것이 가능하다. 다량의 정상 데이터와 소수의 비정상 데이터를 학습 데이터로 사용하여 이상치를 탐지는 하는 연구 방법도 존재한다.
 
 ### Few-Shot Anomaly Detection  
 1. Learning unsupervised metaformer for anomaly detection (2021)

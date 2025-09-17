@@ -123,9 +123,7 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 
 ### 7. Transformer  
 1. Vt-adl: A vision transformer network for image anomaly detection and localization (2021)  
-2. Inpainting transformer for anomaly detection (2021)
-3. A Unified Model for Multi-class Anomaly Detection (2022)
-4. ADTR: Anomaly Detection Transformer with Feature Reconstruction (2022)  
+2. ADTR: Anomaly Detection Transformer with Feature Reconstruction (2022)  
 
 ### 8. Diffusion Model  
 1. Anoddpm: Anomaly detection with denoising diffusion probabilistic models using simplex noise (2022)

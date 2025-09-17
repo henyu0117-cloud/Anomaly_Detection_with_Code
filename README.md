@@ -133,12 +133,18 @@ $\cdot$ Deep Industrial Image Anomaly Detection: A survey (2023) [[paper]](https
 ### Supervised Learning
 
 ### Few-Shot Anomaly Detection  
-
+1. Learning unsupervised metaformer for anomaly detection (2021)
+2. Masked autoencoders are scalable vision learners (2022)
+3. Winclip: Zero-/few-shot anomaly classification and segmentation (2023)
+   
 ### Noisy Anomaly Detection  
+1. Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions (2021)
+2. Latent Outlier Exposure for Anomaly Detection with Contaminated Data (2022)  
 
 ### 3D Anomaly Detection
 
 ### Anomaly Synthesis  
+이상치 데이터를 의도적으로 만들어 퓨샷 러닝을 할 때 성능을 향상시킬 수 있다. CutPaste나 DRAEM과 같은 방법이 존재한다. 또는 Defect-GAN과 같이 GAN을 이용하는 방법이 있다.
 
 ### Anomaly Detection with LLM and RAG
 
